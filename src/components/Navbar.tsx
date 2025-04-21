@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
@@ -38,7 +37,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto flex justify-between items-center">
         <Link to="/" className="text-xl font-bold flex items-center gap-2 text-gradient">
-          <span className="text-2xl">{'<'}</span>Anshul<span className="text-2xl">{'/>'}</span>
+          <span className="text-2xl">{'<'}</span>Partha<span className="text-2xl">{'/>'}</span>
         </Link>
         
         {/* Desktop Menu */}

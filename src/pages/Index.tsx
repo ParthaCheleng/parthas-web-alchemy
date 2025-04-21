@@ -1,9 +1,7 @@
-
 import { useState, useEffect } from 'react';
 import Navbar from '../components/Navbar';
 import HeroSection from '../components/HeroSection';
 import AboutSection from '../components/AboutSection';
-import ExperienceSection from '../components/ExperienceSection';
 import ProjectsSection from '../components/ProjectsSection';
 import SkillsSection from '../components/SkillsSection';
 
@@ -31,14 +29,13 @@ const Index = () => {
       <Navbar />
       <HeroSection />
       <AboutSection />
-      <ExperienceSection />
       <ProjectsSection />
       <SkillsSection />
       
       {/* Footer */}
       <footer className="py-8 bg-card border-t border-border">
         <div className="container mx-auto px-6 md:px-12 text-center">
-          <p className="text-muted-foreground">© {new Date().getFullYear()} Anshul Kumar | All Rights Reserved</p>
+          <p className="text-muted-foreground">© {new Date().getFullYear()} Partha | All Rights Reserved</p>
           <div className="flex justify-center gap-6 mt-6">
             <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">

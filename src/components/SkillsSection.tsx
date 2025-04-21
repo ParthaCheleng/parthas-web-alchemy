@@ -2,14 +2,14 @@
 import { motion } from 'framer-motion';
 
 const skills = [
-  { name: "HTML & CSS", level: 95 },
   { name: "JavaScript", level: 90 },
-  { name: "TypeScript", level: 85 },
+  { name: "HTML & CSS", level: 95 },
   { name: "React", level: 90 },
+  { name: "Express.js", level: 85 },
   { name: "Node.js", level: 80 },
-  { name: "MongoDB", level: 75 },
-  { name: "Tailwind CSS", level: 85 },
-  { name: "UI/UX Design", level: 70 }
+  { name: "SQL", level: 75 },
+  { name: "Golang", level: 70 },
+  { name: "Git", level: 90 }
 ];
 
 const SkillsSection = () => {
@@ -65,14 +65,7 @@ const SkillsSection = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.4 }}
           >
-            {['Git', 'Webpack', 'Docker', 'Firebase', 'AWS', 'Redux', 'GraphQL', 'Jest'].map((tool, index) => (
-              <div 
-                key={index} 
-                className="px-6 py-4 rounded-xl bg-muted/5 border border-border hover:border-primary/30 transition-colors text-center"
-              >
-                <span className="font-medium">{tool}</span>
-              </div>
-            ))}
+            {/* Removed extra tools section based on requirements */}
           </motion.div>
         </div>
       </div>
@@ -81,3 +74,4 @@ const SkillsSection = () => {
 };
 
 export default SkillsSection;
+

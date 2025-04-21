@@ -28,7 +28,7 @@ const HeroSection = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.5, duration: 0.8 }}
           >
-            Anshul.
+            Partha.
           </motion.h1>
 
           <motion.div
@@ -128,3 +128,4 @@ const HeroSection = () => {
 };
 
 export default HeroSection;
+
