@@ -1,4 +1,3 @@
-
 import { motion } from 'framer-motion';
 
 const AboutSection = () => {
@@ -21,11 +20,11 @@ const AboutSection = () => {
               transition={{ duration: 0.8, delay: 0.2 }}
             >
               <div className="relative">
-                <div className="aspect-square overflow-hidden rounded-2xl bg-gradient-to-br from-primary/20 to-accent/20">
+                <div className="h-[400px] w-full md:w-[300px] overflow-hidden rounded-2xl bg-gradient-to-br from-primary/20 to-accent/20">
                   <img 
-                    src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=600&h=600" 
-                    alt="Developer working on code" 
-                    className="w-full h-full object-cover mix-blend-luminosity hover:mix-blend-normal transition-all duration-500"
+                    src="/about-img.png" 
+                    alt="Portrait of Partha" 
+                    className="w-full h-full object-top object-contain transition-all duration-500 hover:scale-105"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent opacity-60"></div>
                 </div>
@@ -45,31 +44,31 @@ const AboutSection = () => {
               <div className="w-20 h-1.5 bg-primary rounded-full mb-6"></div>
 
               <p className="text-lg text-muted-foreground mb-6">
-                Hello! I'm Anshul, a passionate full-stack web developer with expertise in creating engaging digital experiences. 
-                My journey in web development started during my college years, and I've been hooked ever since.
+              Hey there! I'm Partha — a full-stack web wizard on a mission to craft pixel-perfect, jaw-droppingly smooth digital adventures. 
+              I accidentally clicked “View Source” back in college, and boom — I’ve been coding ever since like it’s my favorite side quest.
               </p>
 
               <p className="text-lg text-muted-foreground mb-6">
-                I enjoy building everything from small business sites to rich interactive web applications. 
-                My focus is on creating intuitive, accessible, and responsive interfaces that provide exceptional user experiences.
+              I love building everything from cozy little biz sites to full-blown web apps with all the bells and whistles. 
+              My superpower? Crafting interfaces so smooth, even your grandma could use them — fast, friendly, and fun all the way!
               </p>
 
               <p className="text-lg text-muted-foreground">
-                Outside of work, I love exploring new technologies, contributing to open-source projects, and sharing my knowledge through blog posts and community events.
+              When I’m not slaying bugs with my keyboard sword, I’m on a side quest bingeing Interstellar (again) or grinding through indie games. Code or content, I just love turning tech into tales.
               </p>
 
               <div className="grid grid-cols-2 gap-4 mt-10">
                 <div>
                   <h3 className="text-lg font-semibold mb-3">Name</h3>
-                  <p className="text-muted-foreground">Anshul Kumar</p>
+                  <p className="text-muted-foreground">Partha Jyoti Cheleng</p>
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-3">Email</h3>
-                  <p className="text-muted-foreground">anshul@example.com</p>
+                  <p className="text-muted-foreground">parthajyoti2000@gmail.com</p>
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-3">Location</h3>
-                  <p className="text-muted-foreground">New York, USA</p>
+                  <p className="text-muted-foreground">Assam, India</p>
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-3">Availability</h3>

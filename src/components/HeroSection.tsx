@@ -60,7 +60,7 @@ const HeroSection = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 1.1, duration: 0.8 }}
           >
-            I design and build exceptional digital experiences. Currently focused on building responsive full-stack web applications.
+            I craft slick digital stuff — currently brewing full-stack apps that vibe on every screen.
           </motion.p>
 
           <motion.div 
