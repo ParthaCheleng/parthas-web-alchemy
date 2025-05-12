@@ -4,36 +4,36 @@ import { motion } from 'framer-motion';
 
 const projects = [
   {
-    title: "E-commerce Platform",
-    description: "A full-featured e-commerce platform with product management, cart functionality, and payment processing.",
-    image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&w=600",
-    tags: ["React", "Node.js", "MongoDB", "Stripe"],
-    liveUrl: "#",
-    githubUrl: "#"
+    title: "ClimaSphere",
+    description: "A sleek and responsive weather app providing real-time forecasts, location-based data, and detailed weather insights with a clean UI.",
+    image: "/weather-app-thumbnail.png",
+    tags: ["React", "TypeScript", "Vite", "Tailwind CSS", "WeatherAPI", "Vercel"],
+    liveUrl: "https://clima-sphere-view.vercel.app/",
+    githubUrl: "https://github.com/ParthaCheleng/clima-sphere-view"
   },
   {
-    title: "Task Management App",
-    description: "A drag-and-drop task management application with team collaboration features and real-time updates.",
-    image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=600",
-    tags: ["React", "Firebase", "Tailwind CSS", "DnD"],
-    liveUrl: "#",
-    githubUrl: "#"
+    title: "GlobalPulse",
+    description: "A real-time news application delivering the latest headlines across categories, with personalized feeds and seamless browsing experience.",
+    image: "/news-app-thumbnail.png",
+    tags: ["React", "TypeScript", "Tailwind CSS", "NewsAPI", "Vercel"],
+    liveUrl: "https://global-pulse-frontend.vercel.app/",
+    githubUrl: "https://github.com/ParthaCheleng/global-pulse-frontend"
   },
   {
-    title: "Portfolio Website",
-    description: "Modern portfolio website with animations, dark mode, and contact form integration.",
-    image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=600",
-    tags: ["React", "Framer Motion", "Tailwind CSS"],
-    liveUrl: "#",
-    githubUrl: "#"
+    title: "tastyTune",
+    description: "A modern recipe app featuring step-by-step cooking guides, ingredient filters, dark mode, and a personalized favorites section.",
+    image: "/food-app-thumbnail.png",
+    tags: ["React", "TypeScript", "Tailwind CSS", "Vite", "Supabase", "Spoonacular API"],
+    liveUrl: "https://tasty-tune-creator.vercel.app/",
+    githubUrl: "https://github.com/ParthaCheleng/tasty-tune-creator"
   },
   {
-    title: "Weather Dashboard",
-    description: "Interactive weather dashboard with location search, forecast data, and animated visualizations.",
-    image: "https://images.unsplash.com/photo-1500673922987-e212871fec22?auto=format&fit=crop&w=600",
-    tags: ["JavaScript", "Weather API", "Chart.js", "CSS"],
-    liveUrl: "#",
-    githubUrl: "#"
+    title: "todoVault",
+    description: "A smart todo app with task creation, deadline tracking, and a clean, intuitive interface.",
+    image: "/todo-app-thumbnail.png",
+    tags: ["React.js", "Vite", "Typescript", "Tailwind CSS", "Supabase", "Vercel"],
+    liveUrl: "https://todo-vault-app.vercel.app/auth",
+    githubUrl: "https://github.com/ParthaCheleng/todo-vault-app"
   }
 ];
 
