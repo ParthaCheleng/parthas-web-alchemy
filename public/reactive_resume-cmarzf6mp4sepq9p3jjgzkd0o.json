@@ -1,0 +1,342 @@
+{
+  "basics": {
+    "url": {
+      "href": "https://github.com/ParthaCheleng",
+      "label": ""
+    },
+    "name": "Partha Jyoti Cheleng",
+    "email": "parthajyoti2000@gmail.com",
+    "phone": "+91 8011501416",
+    "picture": {
+      "url": "https://storage.rxresu.me/cmarzc2064seeq9p3d538dg47/pictures/d2wdt41k57tkbk5m9vm0yt1u.jpg",
+      "size": 64,
+      "effects": {
+        "border": false,
+        "hidden": false,
+        "grayscale": false
+      },
+      "aspectRatio": 1,
+      "borderRadius": 0
+    },
+    "headline": "Junior Full Stack Developer | Passionate About Building Scalable Web Apps",
+    "location": "Assam, India",
+    "customFields": []
+  },
+  "metadata": {
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "format": "a4",
+      "margin": 22,
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "notes": "",
+    "theme": {
+      "text": "#000000",
+      "primary": "#0891b2",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "template": "pikachu",
+    "typography": {
+      "font": {
+        "size": 15,
+        "family": "Arial",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ]
+      },
+      "hideIcons": false,
+      "lineHeight": 1.55,
+      "underlineLinks": true
+    }
+  },
+  "sections": {
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "custom": {},
+    "skills": {
+      "id": "skills",
+      "name": "Skills",
+      "items": [
+        {
+          "id": "mc909qaleipm0k03nq0y95lj",
+          "visible": true,
+          "name": "Client-Side",
+          "description": "Front-end",
+          "level": 4,
+          "keywords": [
+            "React",
+            "TailwindCSS",
+            "Typescript",
+            "BootStrap"
+          ]
+        },
+        {
+          "id": "dqyhf4epve1uu7nyaone5fav",
+          "visible": true,
+          "name": "Server-Side",
+          "description": "Back-end",
+          "level": 3,
+          "keywords": [
+            "MySQL",
+            "NodeJS",
+            "MongoDB",
+            "ExpressJS",
+            "Supabase"
+          ]
+        },
+        {
+          "id": "a1hy4pmtlosafuisyoenl2m8",
+          "visible": true,
+          "name": "Development & Operation",
+          "description": "",
+          "level": 3,
+          "keywords": [
+            "GIT",
+            "Vercel"
+          ]
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "summary": {
+      "id": "summary",
+      "name": "Summary",
+      "columns": 1,
+      "content": "<p style=\"text-align: justify\">Aspiring full stack developer with academic exposure to modern web stacks. Completed <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://M.Tech\">M.Tech</a> with hands-on projects in React, Node.js, Supabase, Typescript and vercel. Open to junior developer roles.</p>",
+      "visible": true,
+      "separateLinks": true
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Profiles",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "projects": {
+      "id": "projects",
+      "name": "Projects",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "education": {
+      "id": "education",
+      "name": "Education",
+      "items": [
+        {
+          "id": "nzk2p5scuvmhjwifigc0db19",
+          "visible": true,
+          "institution": "Dibrugarh University(DUIET)",
+          "studyType": "B.Tech in Computer Science & Engineering",
+          "area": "Computer Science & Engineering",
+          "score": "",
+          "date": "Aug 2018 - Aug 2022",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "o90ay1bzxszmkf5k16wjyy27",
+          "visible": true,
+          "institution": "Tezpur University",
+          "studyType": "M.Tech in Computer Science & Engineering",
+          "area": "Computer Science & Engineering",
+          "score": "",
+          "date": "Aug 2023 - Aug 2025",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "interests": {
+      "id": "interests",
+      "name": "Interests",
+      "items": [
+        {
+          "id": "yypi7h09irh50u0qnjns7cpq",
+          "visible": true,
+          "name": "Hobbies",
+          "keywords": [
+            "Art",
+            "Cooking",
+            "Traveling",
+            "Gaming"
+          ]
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Languages",
+      "items": [
+        {
+          "id": "ejjx502uiwatbcbbwsksobsn",
+          "visible": true,
+          "name": "English",
+          "description": "",
+          "level": 4
+        },
+        {
+          "id": "jqblksh4k0aauxn157tznou3",
+          "visible": true,
+          "name": "Hindi",
+          "description": "",
+          "level": 3
+        },
+        {
+          "id": "iavntkcnq3czptdlkrnh4e02",
+          "visible": true,
+          "name": "Assamese",
+          "description": "",
+          "level": 4
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "volunteer": {
+      "id": "volunteer",
+      "name": "Volunteering",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Projects",
+      "items": [
+        {
+          "id": "q268uv7blbc0t965cjgfrcoe",
+          "visible": true,
+          "company": "ClimaSphere",
+          "position": "",
+          "location": "",
+          "date": "",
+          "summary": "<p>A sleek and responsive weather app providing real-time forecasts, location-based data, and detailed weather insights with a clean UI.</p>",
+          "url": {
+            "label": "",
+            "href": "https://clima-sphere-view.vercel.app/"
+          }
+        },
+        {
+          "id": "rdonhcj6zqujqpetxl3t3fz8",
+          "visible": true,
+          "company": "GlobalPulse",
+          "position": "",
+          "location": "",
+          "date": "",
+          "summary": "<p>A real-time news application delivering the latest headlines across categories, with personalized feeds and seamless browsing experience.</p>",
+          "url": {
+            "label": "",
+            "href": "https://global-pulse-frontend.vercel.app/"
+          }
+        },
+        {
+          "id": "uu8nk857dwbhhbuquso5v6dp",
+          "visible": true,
+          "company": "tastyTune",
+          "position": "",
+          "location": "",
+          "date": "",
+          "summary": "<p>A modern recipe app featuring step-by-step cooking guides, ingredient filters, dark mode, and a personalized favorites section.</p>",
+          "url": {
+            "label": "",
+            "href": "https://tasty-tune-creator.vercel.app/"
+          }
+        },
+        {
+          "id": "mwdoat47ay5hxdnvfhpwi7jg",
+          "visible": true,
+          "company": "todoVault",
+          "position": "",
+          "location": "",
+          "date": "",
+          "summary": "<p>A smart todo app with task creation, deadline tracking, and a clean, intuitive interface.</p>",
+          "url": {
+            "label": "",
+            "href": "https://todo-vault-app.vercel.app/auth"
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "references": {
+      "id": "references",
+      "name": "References",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "publications": {
+      "id": "publications",
+      "name": "Publications",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "certifications": {
+      "id": "certifications",
+      "name": "Certifications",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    }
+  }
+}

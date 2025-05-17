@@ -44,17 +44,17 @@ const AboutSection = () => {
               <div className="w-20 h-1.5 bg-primary rounded-full mb-6"></div>
 
               <p className="text-lg text-muted-foreground mb-6">
-              Hey there! I'm Partha — a full-stack web wizard on a mission to craft pixel-perfect, jaw-droppingly smooth digital adventures. 
-              I accidentally clicked “View Source” back in college, and boom — I’ve been coding ever since like it’s my favorite side quest.
+                Hey there! I'm Partha — a full-stack web wizard on a mission to craft pixel-perfect, jaw-droppingly smooth digital adventures. 
+                I accidentally clicked “View Source” back in college, and boom — I’ve been coding ever since like it’s my favorite side quest.
               </p>
 
               <p className="text-lg text-muted-foreground mb-6">
-              I love building everything from cozy little biz sites to full-blown web apps with all the bells and whistles. 
-              My superpower? Crafting interfaces so smooth, even your grandma could use them — fast, friendly, and fun all the way!
+                I love building everything from cozy little biz sites to full-blown web apps with all the bells and whistles. 
+                My superpower? Crafting interfaces so smooth, even your grandma could use them — fast, friendly, and fun all the way!
               </p>
 
               <p className="text-lg text-muted-foreground">
-              When I’m not slaying bugs with my keyboard sword, I’m on a side quest bingeing Interstellar (again) or grinding through indie games. Code or content, I just love turning tech into tales.
+                When I’m not slaying bugs with my keyboard sword, I’m on a side quest bingeing Interstellar (again) or grinding through indie games. Code or content, I just love turning tech into tales.
               </p>
 
               <div className="grid grid-cols-2 gap-4 mt-10">
@@ -78,10 +78,11 @@ const AboutSection = () => {
 
               <div className="mt-10">
                 <a 
-                  href="/resume" 
+                  href="/Partha_Jyoti_Cheleng_Resume.pdf"
+                  download
                   className="px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors inline-flex items-center gap-2"
                 >
-                  Download CV
+                  Download resume
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path d="M21 15V19C21 19.5304 20.7893 20.0391 20.4142 20.4142C20.0391 20.7893 19.5304 21 19 21H5C4.46957 21 3.96086 20.7893 3.58579 20.4142C3.21071 20.0391 3 19.5304 3 19V15" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                     <path d="M7 10L12 15L17 10" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
