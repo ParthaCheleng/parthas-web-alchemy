@@ -144,7 +144,7 @@ const ProjectsSection = () => {
           transition={{ duration: 0.6, delay: 0.4 }}
         >
           <a 
-            href="https://github.com/yourusername" 
+            href="https://github.com/ParthaCheleng" 
             className="inline-flex items-center gap-2 px-6 py-3 border border-primary text-primary rounded-lg hover:bg-primary/10 transition-colors"
             target="_blank" 
             rel="noopener noreferrer"
