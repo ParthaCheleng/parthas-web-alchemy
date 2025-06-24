@@ -78,7 +78,7 @@ const AboutSection = () => {
 
               <div className="mt-10">
                 <a 
-                  href="/Partha_Jyoti_Cheleng_Resume.pdf"
+                  href="/Resume_Partha_Jyoti_Cheleng.pdf"
                   download
                   className="px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors inline-flex items-center gap-2"
                 >
