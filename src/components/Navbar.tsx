@@ -54,7 +54,7 @@ const Navbar = () => {
             </motion.a>
           ))}
           <motion.a
-            href="/Partha_Jyoti_Cheleng_Resume.pdf"
+            href="/Resume_Partha_Jyoti_Cheleng.pdf"
             download
             className="px-4 py-2 rounded-lg border border-primary hover:bg-primary/10 text-primary transition-colors"
             initial={{ opacity: 0, scale: 0.8 }}
