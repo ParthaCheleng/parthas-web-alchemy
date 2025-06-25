@@ -28,12 +28,12 @@ const projects = [
     githubUrl: "https://github.com/ParthaCheleng/tasty-tune-creator"
   },
   {
-    title: "todoVault",
+    title: "HandiCraft",
     description: "A smart todo app with task creation, deadline tracking, and a clean, intuitive interface.",
-    image: "/todo-app-thumbnail.png",
+    image: "/handicraft.png",
     tags: ["React.js", "Vite", "Typescript", "Tailwind CSS", "Supabase", "Vercel"],
-    liveUrl: "https://todo-vault-app.vercel.app/auth",
-    githubUrl: "https://github.com/ParthaCheleng/todo-vault-app"
+    liveUrl: "https://handicraft-two.vercel.app/",
+    githubUrl: "https://github.com/ParthaCheleng/craft-bloom-shop"
   }
 ];
 
