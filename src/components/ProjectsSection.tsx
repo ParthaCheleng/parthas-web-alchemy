@@ -29,9 +29,9 @@ const projects = [
   },
   {
     title: "HandiCraft",
-    description: "A smart todo app with task creation, deadline tracking, and a clean, intuitive interface.",
+    description: "Handicraft is a responsive React & TypeScript storefront built with Vite and Tailwind CSS, featuring, smooth scroll navigation, and UI animated cards",
     image: "/handicraft.png",
-    tags: ["React.js", "Vite", "Typescript", "Tailwind CSS", "Supabase", "Vercel"],
+    tags: ["React.js", "Vite", "Typescript", "Tailwind CSS", "Vercel"],
     liveUrl: "https://handicraft-two.vercel.app/",
     githubUrl: "https://github.com/ParthaCheleng/craft-bloom-shop"
   }
